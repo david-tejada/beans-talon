@@ -2,6 +2,8 @@
 
 These are the [Talon](https://talonvoice.com) voice commands for [Beans](https://github.com/david-tejada/beans), my VS Code extension that puts letter hints on sidebar rows (and numbers on Command Palette rows) so I can drive VS Code by voice. The extension draws the hints; this repo gives you the words to use them.
 
+This repo is a mirror of the [`beans-talon/` folder of the Beans repo](https://github.com/david-tejada/beans/tree/main/beans-talon), updated on every merge there. Issues and pull requests go to [Beans](https://github.com/david-tejada/beans).
+
 ## Requirements
 
 - The [Beans extension](https://marketplace.visualstudio.com/items?itemName=david-tejada.beans) from the VS Code Marketplace.
